@@ -1,0 +1,2 @@
+<?php
+die('Invalid Enviorment');
